@@ -1,10 +1,24 @@
 [
-    {
-        "id":1,
-        "type":"subtask/main task",
-        "name":"Add task to timesheet",
-        "priority":"high",
-        "estimatedHours":3,
-        "taskLinkedTo":1
-    }
+  {
+    "taskName": "Example Task",
+    "description": "This is an example task",
+    "deadline": "2021-08-01T00:00:00.000Z",
+    "status": "pending",
+    "estimatedHours": 1.25,
+    "actualHours": 0,
+    "startDate": "2021-07-01T00:00:00.000Z",
+    "endDate": "2021-07-01T00:00:00.000Z",
+    "id": "3b12a7b7-1902-4c50-ab5e-4040760e4d32"
+  },
+  {
+    "taskName": "Example Task",
+    "description": "This is an example task",
+    "deadline": "2021-08-01T00:00:00.000Z",
+    "status": "pending",
+    "estimatedHours": 1.25,
+    "actualHours": 0,
+    "startDate": "2021-07-01T00:00:00.000Z",
+    "endDate": "2021-07-01T00:00:00.000Z",
+    "id": "b2bd44d2-62fa-477f-b92b-1e5d88c5261d"
+  }
 ]
